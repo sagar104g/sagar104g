@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sagar104g@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sagaryv/](https://www.linkedin.com/in/codenesthq/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/codenesthq/](https://www.linkedin.com/in/codenesthq/)
 
 - ⚡ Fun fact **The Firefox logo isn’t a fox… it’s a red panda!**
 
