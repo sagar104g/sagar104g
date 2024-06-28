@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **sagar104g@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sagaryv/](https://www.linkedin.com/in/sagaryv/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sagaryv/](https://www.linkedin.com/in/codenesthq/)
 
 - ⚡ Fun fact **The Firefox logo isn’t a fox… it’s a red panda!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagaryv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagaryv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codenesthq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagaryv" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/1_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="1_coder" height="30" width="40" /></a>
 </p>
 
