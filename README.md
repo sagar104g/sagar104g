@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Nodejs, reactjs and javascript**
 
-- 📫 How to reach me **sagar104g@gmail.com**
+- 📫 How to reach me **LinkedIn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/codenesthq/](https://www.linkedin.com/in/codenesthq/)
 
